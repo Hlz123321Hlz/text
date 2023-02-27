@@ -1,0 +1,30 @@
+<view class="view_contain">
+  <navigator url="/pages/my post/my post">
+    <view class="application">
+      <image class="photo" src="/images/my post.png"></image>
+      <text class="word">我的发布</text>
+      <image class="arrow" src="/images/arrow.png"></image>
+    </view>
+  </navigator>
+  <navigator url="/pages/my feedback/my feedback">
+    <view class="application">
+      <image class="photo" src="/images/my feedback.png"></image>
+      <text class="word">我的反馈</text>
+      <image class="arrow" src="/images/arrow.png"></image>
+    </view>
+  </navigator>
+  <navigator url="/pages/service centre/service centre">
+    <view class="application">
+      <image class="photo" src="/images/service centre.png"></image>
+      <text class="word">客服中心</text>
+      <image class="arrow" src="/images/arrow.png"></image>
+    </view>
+  </navigator>
+  <navigator url="/pages/setting/setting">
+    <view class="application">
+      <image class="photo" src="/images/setting.png"></image>
+      <text class="word">设置</text>
+      <image class="arrow_1" src="/images/arrow.png"></image>
+    </view>
+  </navigator>
+</view>
